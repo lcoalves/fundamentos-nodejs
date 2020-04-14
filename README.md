@@ -72,7 +72,7 @@ Donwload Insomnia and import workspace from JSON
 
 ## Built With
 
-* [Typescript](https://www.typescriptlang.org/docs/home.html) - Fast, unopinionated, minimalist web framework for Node.js
+* [Typescript](https://www.typescriptlang.org/docs/home.html) - JavaScript that scales.
 * [Express](https://expressjs.com/pt-br/starter/installing.html) - Fast, unopinionated, minimalist web framework for Node.js
 * [Jest](https://jestjs.io/docs/en/getting-started) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
